@@ -28,7 +28,7 @@ body {
     text-decoration: underline;
 }
 
-.footer-items-1 {
+.footer-items-a {
     display: flex;
     flex-wrap: wrap;
     align-items: center;

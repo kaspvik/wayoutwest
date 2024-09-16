@@ -2,4 +2,9 @@
     .footer-container-1 {
         height: 200px;
     }
+
+    .footer-logos {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
 }
