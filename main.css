@@ -2,5 +2,16 @@ body {
     margin: 0%;
 }
 
+.footer-logos {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.footer-logos-1 {
+    margin-bottom: 26px;
+}
 
+img {
+    max-width: 56px;
+}
