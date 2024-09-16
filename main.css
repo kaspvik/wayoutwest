@@ -19,6 +19,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    margin-bottom: 26px;
 }
 
 .footer-items-2 {
@@ -38,8 +39,10 @@ body {
 
 .footer-items-1 a {
     text-decoration: none;
+    margin: 0px 8px 2px 8px;
 }
 
 .footer-items-2 a {
     text-decoration: none;
+    margin: 0px 8px 2px 8px;
 }
