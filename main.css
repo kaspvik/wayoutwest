@@ -2,34 +2,44 @@ body {
     margin: 0%;
 }
 
-
-
-footer {
+.footer-container-1 {
     background-color: black;
     height: 250px;
 }
 
 .footer-logos {
-    position: relative;
-    top: 25px;
     margin-left: 20px;
     margin-right: 20px;
+    position: relative;
+    top: 20px;
 }
 
-.footer-logos-1 {
-    text-align: center;
-    margin-bottom: 26px;
-    height: auto;
+.footer-items-1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
-.footer-logos-2 {
-    text-align: center;
-    height: auto;
-    line-height: 0;
+.footer-items-2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
-.footer-img {
+.footer-items-1 img {
     max-width: 56px;
-    margin-left: 5px;
-    margin-right: 5px;
+}
+
+.footer-items-2 img {
+    max-width: 56px;
+}
+
+.footer-items-1 a {
+    text-decoration: none;
+}
+
+.footer-items-2 a {
+    text-decoration: none;
 }
