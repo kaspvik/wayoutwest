@@ -1,3 +1,4 @@
+@import url(tablet.css);
 body  {
     margin: 0px;
 }
@@ -5,7 +6,7 @@ body  {
 .header-nav-container {
     display: flex;
     justify-content: space;
-    gap: 25px;
+    gap: 60px;
 
     width: auto;
     height: 80px;
