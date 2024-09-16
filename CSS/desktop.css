@@ -1,10 +1,17 @@
 @media screen and (min-width: 1200px) {
     .footer-container-1 {
-        height: 150px;
+        height: 100px;
+    }
+
+    .footer-logos {
+        display: flex;
+        justify-content: space-around;
+        margin-left: 54px;
+        margin-right: 54px;
     }
 
     .footer-items-1 {
-        display: flex;
+        margin-bottom: 0;
     }
 
     .footer-items-1 img {
@@ -13,5 +20,10 @@
     
     .footer-items-2 img {
         max-width: 40px;
+    }
+
+    .footer-h3 {
+        font-size: 10px;
+        display: inline;
     }
 }
