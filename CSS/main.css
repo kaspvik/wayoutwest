@@ -1,3 +1,5 @@
+@import url(tablet.css);
+
 body {
     margin: 0%;
 }
@@ -62,12 +64,6 @@ body {
     margin: 0px 8px 2px 8px;
 }
 
-@media screen and (min-width: 820px) {
-    .footer-container-1 {
-        height: 200px;
-    }
-}
-
 @media screen and (min-width: 1200px) {
     .footer-container-1 {
         height: 150px;
@@ -76,7 +72,7 @@ body {
     .footer-logos {
         display: flex;
     }
-    
+
     .footer-items-1 img {
         max-width: 40px;
     }
