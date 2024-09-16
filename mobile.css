@@ -12,9 +12,38 @@ body  {
     background-color: black;
 }
 
+.tickets-button button {
+    color: greenyellow;
+    background-color: black;
+
+    border-color: greenyellow;
+    border-style: solid;
+
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+
 .logo img {
     width: auto;
     height: 85px;
 
-    margin-top: 10px;
+    position: relative;
+    top: 10px;
+    right: 10px;
+}
+
+.meny-button button {
+    color: greenyellow;
+    background-color: black;
+
+    border-color: greenyellow;
+    border-style: solid;
+
+    width: 50px;
+    height: 50px;
+
+    position: relative;
+    top: 20px;
+    right: 10px;
 }
