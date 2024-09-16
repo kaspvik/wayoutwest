@@ -2,9 +2,7 @@ body {
     margin: 0%;
 }
 
-img {
-    max-width: 56px;
-}
+
 
 footer {
     background-color: black;
@@ -31,6 +29,7 @@ footer {
 }
 
 .footer-img {
+    max-width: 56px;
     margin-left: 5px;
     margin-right: 5px;
 }
