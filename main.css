@@ -2,6 +2,8 @@ body {
     margin: 0%;
 }
 
+/*footer styling start*/
+
 .footer-container-1 {
     background-color: black;
     height: 270px;
@@ -59,3 +61,28 @@ body {
     text-decoration: none;
     margin: 0px 8px 2px 8px;
 }
+
+@media screen and (min-width: 820px) {
+    .footer-container-1 {
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .footer-container-1 {
+        height: 150px;
+    }
+
+    .footer-logos {
+        display: flex;
+    }
+    
+    .footer-items-1 img {
+        max-width: 40px;
+    }
+    
+    .footer-items-2 img {
+        max-width: 40px;
+    }
+}
+/*footer styling slut*/
