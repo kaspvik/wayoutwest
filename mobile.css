@@ -11,3 +11,10 @@ body  {
 
     background-color: black;
 }
+
+.logo img {
+    width: auto;
+    height: 85px;
+
+    margin-top: 10px;
+}
