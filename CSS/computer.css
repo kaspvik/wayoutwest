@@ -1,21 +1,21 @@
-@media screen and (min-width: 505px) {
+@media screen and (min-width: 1024px) {
  
 
     .header-nav-container {
         display: flex;
         justify-content: space-between;
-        height: 90px;
+        height: 80px;
     }
     
     .tickets button {
     
         border: 5px solid #b7eba4;
-        font-size: 20px;
+        font-size: 15px;
         left: 20px;
     }
     
     .logo img {
-        height: 80px;
+        height: 70px;
         right: 40px;
     }
     
