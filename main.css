@@ -4,14 +4,26 @@ body {
 
 .footer-container-1 {
     background-color: black;
-    height: 250px;
+    height: 270px;
 }
 
 .footer-logos {
     margin-left: 20px;
     margin-right: 20px;
     position: relative;
-    top: 20px;
+    top: 35px;
+    bottom: 35px;
+    line-height: 3px;
+    
+}
+
+#footer-h3 {
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    margin: 0px 0px 15px 0px;
+    text-decoration: underline;
 }
 
 .footer-items-1 {
@@ -27,6 +39,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
+    line-height: 0;
 }
 
 .footer-items-1 img {
