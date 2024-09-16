@@ -1,0 +1,17 @@
+@media screen and (min-width: 1200px) {
+    .footer-container-1 {
+        height: 150px;
+    }
+
+    .footer-logos {
+        display: flex;
+    }
+
+    .footer-items-1 img {
+        max-width: 40px;
+    }
+    
+    .footer-items-2 img {
+        max-width: 40px;
+    }
+}
