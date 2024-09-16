@@ -1,4 +1,13 @@
-.main-nav-container {
+body  {
+    margin: 0px;
+}
+
+.header-nav-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+
+    width: auto;
+    height: 100px;
+
+    background-color: black;
 }
