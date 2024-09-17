@@ -49,6 +49,11 @@ footer {
     border: 2px solid black;
 }
 
+#form-h3 {
+    font-size: 15px;
+    font-weight: 600;
+}
+
 .btn-primary {
     background-color: black;
     border: 1px solid black;
