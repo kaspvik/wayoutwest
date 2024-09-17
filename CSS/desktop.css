@@ -15,4 +15,16 @@
     .footer-items-2 img {
         max-width: 45px;
     }
+
+    .form {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .btn-primary {
+        margin-top: 0;
+        width: 150px;
+    }
 }
