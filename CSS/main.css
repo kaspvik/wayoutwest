@@ -14,6 +14,7 @@ footer {
     display: flex;
     justify-content: center;
     text-align: center;
+    height: 150px;
 }
 
 .follow-us {
@@ -41,9 +42,9 @@ footer {
     margin-left: 20px;
     margin-right: 20px;
     position: relative;
-    top: 35px;
-    bottom: 35px;
-    line-height: 3px;
+    top: 30px;
+    bottom: 30px;
+    line-height: 8px;
     
 }
 
@@ -51,7 +52,7 @@ footer {
     position: relative;
     color: white;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
     text-decoration: underline;
 }
@@ -60,7 +61,7 @@ footer {
     position: relative;
     color: white;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
     text-decoration: underline;
 }
@@ -73,7 +74,9 @@ footer {
     margin-bottom: 26px;
 }
 
-
+.footer-items-1 {
+    margin-bottom: 30px;
+}
 
 .footer-items-1 img {
     max-width: 56px;
