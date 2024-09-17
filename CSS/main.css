@@ -32,9 +32,14 @@ footer {
     margin-right: 10px;
 }
 
+.form {
+    display: flex;
+    justify-content: center;
+}
+
 .footer-container-1 {
     background-color: black;
-    height: 270px;
+    height: 270px;;
     width: 100%;
 }
 
