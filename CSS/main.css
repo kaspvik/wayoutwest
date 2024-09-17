@@ -14,13 +14,18 @@ footer {
     display: flex;
     justify-content: center;
     text-align: center;
-    height: 150px;
+    height: 100px;
 }
 
 .follow-us {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 5px;
+}
+
+.follow-us h2 {
+    font-weight: 600;
+    font-size: 18px;
 }
 
 .social-media-logos img {
@@ -34,8 +39,8 @@ footer {
 
 .form {
     display: flex;
-    justify-content: center;
-    height: 70px;
+    flex-direction: column;
+    align-items: center;
 }
 
 .form-styling {
@@ -44,10 +49,19 @@ footer {
     border: 2px solid black;
 }
 
+.btn-primary {
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 0%;
+    width: 300px;
+    margin-top: 10px;
+}
+
 .footer-container-1 {
     background-color: black;
     height: 270px;;
     width: 100%;
+    margin-top: 40px;
 }
 
 .footer-logos {
