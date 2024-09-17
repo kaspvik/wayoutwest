@@ -9,7 +9,7 @@
     
     .tickets button {
     
-        border: 5px solid #b7eba4;
+        border: 3px solid #b7eba4;
         font-size: 20px;
         left: 20px;
     }
@@ -20,7 +20,8 @@
     }
     
     .meny button {
-        top: 25px;
+        top: 20px;
+        right: 10px;
     }
     
     .banner img {

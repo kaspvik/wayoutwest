@@ -9,9 +9,10 @@
     
     .tickets button {
     
-        border: 5px solid #b7eba4;
+        border: 4px solid #b7eba4;
         font-size: 15px;
         left: 20px;
+        top: 25px;
     }
     
     .logo img {
@@ -20,10 +21,11 @@
     }
     
     .meny button {
-        top: 25px;
+        top: 15px;
+        right: 20px;
     }
     
     .banner img {
         width: 800px;
     } 
-    }
+    } 
