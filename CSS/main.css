@@ -133,6 +133,13 @@ footer {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    position: relative;
+    top: 20px;
+}
+
+.footer-container-3 p {
+    font-size: 13px;
+    font-weight: 600;
 }
 
 .footer-container-3-a {
