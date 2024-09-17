@@ -22,12 +22,21 @@ body {
     
 }
 
-#footer-h3 {
+#footer-h3-1 {
+    position: relative;
     color: white;
     font-weight: 400;
     font-size: 15px;
     text-align: center;
-    margin: 0px 0px 15px 0px;
+    text-decoration: underline;
+}
+
+#footer-h3-2 {
+    position: relative;
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
     text-decoration: underline;
 }
 
@@ -39,13 +48,7 @@ body {
     margin-bottom: 26px;
 }
 
-.footer-items-2 {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    line-height: 0;
-}
+
 
 .footer-items-1 img {
     max-width: 56px;
