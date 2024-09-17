@@ -4,31 +4,37 @@ body {
 
 /*footer styling start*/
 
-/* footer {
+/*
+footer {
     position: absolute;
     bottom: 0;
 } */
 
-.follow-us {
+.footer-container-2 {
+    display: flex;
+    justify-content: center;
     text-align: center;
 }
 
-.social-media-logos {
+.follow-us {
     display: flex;
-    justify-content: center;
-    gap: 25px;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .social-media-logos img {
     max-width: 30px;
 }
 
+.social-media-logos a {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
 .footer-container-1 {
     background-color: black;
     height: 270px;
     width: 100%;
-    position: absolute;
-    bottom: 0;
 }
 
 .footer-logos {
