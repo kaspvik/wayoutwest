@@ -49,9 +49,10 @@ footer {
     border: 2px solid black;
 }
 
-#form-h3 {
+label {
     font-size: 15px;
     font-weight: 600;
+    text-align: center;
 }
 
 .btn-primary {
