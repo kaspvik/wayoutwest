@@ -46,6 +46,7 @@ footer {
 .form-styling {
     width: 300px; 
     height: 40px;
+    margin-top: 10px;
     border: 2px solid black;
 }
 
