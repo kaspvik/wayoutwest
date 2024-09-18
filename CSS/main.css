@@ -63,6 +63,13 @@ footer {
     height: 40px;
 }
 
+.btn-primary:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    transition: linear 0.2s;
+}
+
 .footer-container-1 {
     background-color: black;
     height: 270px;;
