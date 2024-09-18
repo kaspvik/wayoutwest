@@ -1,0 +1,30 @@
+@media screen and (min-width: 505px) {
+ 
+
+    .header-nav-container {
+        display: flex;
+        justify-content: space-between;
+        height: 90px;
+    }
+    
+    .tickets button {
+    
+        border: 3px solid #b7eba4;
+        font-size: 20px;
+        left: 20px;
+    }
+    
+    .logo img {
+        height: 80px;
+        right: 40px;
+    }
+    
+    .meny button {
+        top: 20px;
+        right: 10px;
+    }
+    
+    .banner img {
+        width: 800px;
+    } 
+    }
