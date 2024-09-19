@@ -57,10 +57,6 @@ body  {
     color: black;
 }
 
-
-
-
-
 .headline-animation {
     font-style: italic;
     font-size: 20px;
@@ -85,7 +81,6 @@ body  {
     margin-left: 30px;
     margin-top: 40px;
     margin-bottom: 40px;
-
   }
   
   .polaroid-video {
@@ -107,8 +102,11 @@ body  {
     position: relative;
     top: 20px;
   }
-
-
+  .signature-artist-lp {
+    width: 260px;
+    position: relative;
+    top: 20px;
+  }
   
 
 
