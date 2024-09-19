@@ -58,6 +58,8 @@
     .polaroid-container {
         display: inline-block;
         padding: 20px 20px 30px; /* Polaroid-typisk ram */
-        width: 400px; /* Justera storlek efter behov */
+        width: 500px; /* Justera storlek efter behov */
+
+        margin-left: 120px;
       }  
     }
