@@ -1,0 +1,52 @@
+@media screen and (min-width: 1200px) {
+ 
+    .first-main-container {
+        display: flex;
+        width: 100%;
+        height: auto;
+    }
+    
+    .information {
+        width: 50%;
+        height: 40px;
+    }
+    
+    .information-container {
+        width: 50%;
+        height: auto;
+    }
+    .ticket-headline {
+        font-size: 25px;
+        position: relative;
+        top: 40px;
+    }
+    
+    .ticket-information {
+        font-size: 16px;
+        position: relative;
+        top: 40px;
+    }
+    
+    .headline {
+        height: 150px;
+    }
+
+    .second-main-container {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        justify-content: center;
+        gap: 40px;
+    }
+    
+    .polaroid-container {
+        display: inline-block;
+        padding: 20px 20px 30px; /* Polaroid-typisk ram */
+        width: 500px; /* Justera storlek efter behov */
+
+
+      }  
+    }

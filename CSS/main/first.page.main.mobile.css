@@ -1,0 +1,99 @@
+@import url(tablet.css);
+
+body  {
+    margin: 0px;
+}
+
+
+.first-main-container {
+    width: 100%;
+    height: auto;
+}
+
+.information {
+    width: 100%;
+    height: auto;
+}
+
+.information img {
+    max-width: 100%;
+    height: auto;
+}
+ 
+.ticket-headline {
+    flex-direction: column; 
+    font-weight: bolder;
+    font-size: 18px;
+    text-align: center;
+}
+
+.ticket-information {
+    flex-direction: column; 
+    font-style: italic;
+    font-size: 11px;
+    text-align: center;
+}
+
+.second-main-container {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    gap: 40px;
+}
+
+.headline {
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+
+
+    background-color: #b7eba4;
+    width: 100%;
+    margin-top: 60px;
+
+    padding: 10px 0px 10px 0px;
+}
+
+/* Fiktiva artister presentation */
+
+.polaroid-container {
+    padding: 20px 20px 30px; /* Polaroid-typisk ram */
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); /* Lätt skugga för 3D-effekt */
+    text-align: center; /* Centrera bildtexten */
+    width: 300px; /* Justera storlek efter behov */
+  }
+  
+  .polaroid-video {
+    display: block;
+    width: 100%; /* Videon tar upp hela bredden av containern */
+    height: auto;
+    border: 1px solid #ccc; /* Liten kant runt videon */
+  }
+  
+  .polaroid-caption {
+    font-family: 'Courier New', Courier, monospace; /* Polaroid-liknande font */
+    font-size: 14px;
+    color: #555;
+    margin-top: 10px;
+  }
+
+  .signature-artist {
+    width: 120px;
+    position: relative;
+    top: 20px;
+  }
+  .signature-artist-lp {
+    width: 260px;
+    position: relative;
+    top: 20px;
+  }
+  
+
+
+
+
+
+
