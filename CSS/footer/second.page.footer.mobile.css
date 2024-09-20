@@ -1,14 +1,10 @@
-body {
-    margin: 0%;
-}
 
-/*footer styling start*/
 
-/*
+
 footer {
     position: absolute;
     bottom: 0;
-} */
+} 
 
 .footer-container-2 {
     display: flex;
@@ -183,4 +179,3 @@ color: black;
     transition: all ease-in 0.2s;
     color: #b7b1b1
 }
-/*footer styling slut*/
