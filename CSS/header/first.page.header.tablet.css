@@ -8,15 +8,12 @@
     }
     
     .tickets button {
-    
-        border: 3px solid #b7eba4;
-        font-size: 20px;
-        left: 20px;
+        top: 20px;
+        left: 10px;
     }
     
     .logo img {
         height: 80px;
-        right: 40px;
     }
     
     .meny button {
