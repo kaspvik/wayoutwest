@@ -32,21 +32,10 @@
     }
 
     .second-main-container {
-        width: 100%;
-        height: auto;
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-
-        justify-content: center;
         gap: 40px;
     }
     
     .polaroid-container {
-        display: inline-block;
-        padding: 20px 20px 30px; /* Polaroid-typisk ram */
-        width: 500px; /* Justera storlek efter behov */
-
-
+        width: 550px; /* Justera storlek efter behov */
       }  
     }

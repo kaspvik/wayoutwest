@@ -2,7 +2,7 @@
  
     .first-main-container {
         width: 100%;
-        height: auto;
+        height: 700px;
     }
     
     .information {
@@ -47,6 +47,6 @@
     .polaroid-container {
         display: inline-block;
         padding: 30px 30px 40px; /* Polaroid-typisk ram */
-        width: 250px; /* Justera storlek efter behov */
+        width: 380px; /* Justera storlek efter behov */
           }
         }
