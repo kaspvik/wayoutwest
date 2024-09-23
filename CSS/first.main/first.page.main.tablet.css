@@ -1,34 +1,54 @@
 @media screen and (min-width: 820px) {
  
-    .first-main-container {
-        width: 100%;
-        height: 700px;
-    }
-    
-    .information {
-        width: 100%;
-        height: 40px;
-    }
-    
-    .information img {
-            max-width: 100%;
-            height: auto;
-    }
+body  {
+    margin: 0px;
+}
 
-     
-    .ticket-headline {
-        font-weight: bolder;
-        font-size: 35px;
-        text-align: center;
-    }
-    
-    .ticket-information {
-        font-style: italic;
-        font-size: 20px;
-        text-align: center;
 
-        margin-bottom: 250px;
-    }
+.first-main-container {
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+
+.information {
+    width: 50%;
+    height: 40px;
+}
+
+.information-container {
+    width: 50%;
+    height: 400px;
+}
+.ticket-headline {
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.ticket-headline h1 {
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+
+.ticket-information {
+    font-size: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.ticket-mobile {
+display: none;
+}
+
+.ticket-tablet {
+  display: contents;
+  font-size: x-large;
+}
+
+.ticket-computer {
+  display: none;
+}
     
     .second-main-container {
         width: 100%;
