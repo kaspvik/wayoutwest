@@ -23,6 +23,7 @@ body  {
 .ticket-headline {
     flex-direction: column; 
     text-align: center;
+    
 }
 
 .ticket-information {
