@@ -28,6 +28,10 @@ main .headline {
   box-shadow: 5px 10px 8px #888888;
 }
 
+.ticket-information h2 {
+  font-size: 25px;
+}
+
 .second-main a {
   text-decoration: none;
   color: black;

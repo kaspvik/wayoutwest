@@ -16,9 +16,13 @@
         height: auto;
     }
     .ticket-headline {
-        font-size: 25px;
+        font-size: 20px;
         position: relative;
         top: 40px;
+    }
+
+    .ticket-headline h1 {
+        margin-bottom: 30px;
     }
     
     .ticket-information {
@@ -34,6 +38,7 @@
 
     .second-main-container {
         gap: 40px;
+        margin-top: 60px;
     }
     
     .polaroid-container {
