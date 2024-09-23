@@ -8,10 +8,12 @@
     }
 
     .mobile-tickets-btn {
+        position: relative;
         top: 20px;
-        left: 10px;
+        right: 50px;
     }
     
+
     .logo img {
         height: 80px;
     }

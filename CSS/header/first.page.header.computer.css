@@ -36,7 +36,9 @@
     }
 
     .logo img {
+        position: relative;
         height: 70px;
+        right: 40px
     }
     
     .desktop-button-right {
