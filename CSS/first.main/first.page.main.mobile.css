@@ -23,13 +23,15 @@ body  {
 .ticket-headline {
     flex-direction: column; 
     text-align: center;
+
+    margin: 20px;
     
 }
 
 .ticket-information {
     flex-direction: column; 
     font-style: italic;
-    font-size: 11px;
+    font-size: 5px;
     text-align: center;
 }
 
