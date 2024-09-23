@@ -24,6 +24,9 @@ main button {
 main .header-main {
   box-shadow: 5px 10px 8px #888888;
 }
+main .headline {
+  box-shadow: 5px 10px 8px #888888;
+}
 
 .second-main a {
   text-decoration: none;
