@@ -7,15 +7,13 @@ $font-weight-h2: 520;
 $text-decoration: none;
 $color-link: black;
 $shadow: 5px 10px 8px #888888;
-$tic-info-zise: 25px;
-$bg-color: blue;
+$tic-info-zise: 22px;
 
 main {
     h1 {
         font-family: $font-stack;
         font-weight: $font-weight-h1;
         font-style: $font-style;
-        font-size: $font-size-h1;
     }
 
     h2 {
@@ -87,4 +85,5 @@ footer {
         font-family: $font-stack;
     }
 }
+
 
