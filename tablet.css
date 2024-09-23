@@ -1,0 +1,24 @@
+@media screen and (min-width: 820px) {
+ 
+        .adult-container {
+            align-items: center;
+        }
+    
+        .youth-container {
+            align-items: center;
+        }
+    
+        .premium-container {
+            align-items: center;
+        }
+    
+        .btn-primary {
+            width: 60%;
+            margin-top: 10px;
+        }
+    
+        .second-main {
+            align-items: center;
+        }
+    
+        }

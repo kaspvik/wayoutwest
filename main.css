@@ -1,0 +1,122 @@
+body {
+    margin: 0%;
+}
+
+.header-main {
+    display: flex;
+    background-color: #ccffba;
+    height: 135px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.header-main a {
+    text-decoration: none;
+    color: black;
+    height: fit-content;
+}
+
+.first-main {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.adult-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 35px;
+    height: 290px;
+}
+
+.youth-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #eeebeb;
+    padding-left: 35px;
+    padding-top: 10px;
+    height: 315px;
+}
+
+.premium-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 35px;
+    padding-top: 10px;
+    height: 315px;
+}
+
+.age-id {
+    color: #ed4a80;
+    font-weight: 600;
+}
+
+.btn-primary {
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 0%;
+    width: 350px;
+    margin-top: 10px;
+    height: 40px;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    transition: linear 0.2s;
+}
+
+.second-main {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    gap: 25px;
+    justify-content: center;
+}
+
+.new-to-wow-container {
+    background-color: white;
+    border: 1px solid white;
+    padding: 20px 20px 30px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.stay-out-west-container {
+    background-color: white;
+    border: 1px solid white;
+    padding: 20px 20px 30px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.dungen-container {
+    background-color: white;
+    border: 1px solid white;
+    padding: 20px 20px 30px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.img-container {
+    width: fit-content;
+    height: auto;
+}
+
+.img-container img:hover {
+    transition: all 0.4s ease;
+    transform: scale(0.95);
+}
+
+.img-container img {
+    width: 100%;
+}
+
+.text-container {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.text-container h2:hover {
+    transition: all 0.2s ease-in;
+    transform: scale(0.95);
+}

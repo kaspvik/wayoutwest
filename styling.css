@@ -1,0 +1,31 @@
+main h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 50px;
+}
+main h2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+main h3 {
+  font-family: "Josefin Sans", sans-serif;
+}
+main p {
+  font-family: "Josefin Sans", sans-serif;
+}
+main li {
+  font-family: "Josefin Sans", sans-serif;
+}
+main button {
+  font-family: "Josefin Sans", sans-serif;
+}
+main .header-main {
+  box-shadow: 5px 10px 8px #888888;
+}
+
+.second-main a {
+  text-decoration: none;
+  color: black;
+}/*# sourceMappingURL=styling.css.map */

@@ -1,0 +1,38 @@
+@media screen and (min-width: 1200px) {
+    
+    .adult-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-right: 35px;
+        height: 250px;
+    }
+
+    .youth-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-right: 35px;
+        height: 250px;
+    }
+
+    .premium-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-right: 35px;
+        height: 250px;
+    }
+
+    .btn-primary {
+        width: 250px;
+        height: 50px;
+        margin-top: 0;
+    }
+
+    .second-main {
+        display: flex;
+        flex-direction: row;
+        margin-top: 0;
+    }
+}
