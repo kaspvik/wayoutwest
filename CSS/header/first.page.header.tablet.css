@@ -8,10 +8,15 @@
     }
 
     .mobile-tickets-btn {
+<<<<<<< HEAD
+=======
+        position: relative;
+>>>>>>> 1e8dc60c9876d7222bf706cacb2d0175dc0bee6b
         top: 20px;
-        left: 10px;
+        right: 50px;
     }
     
+
     .logo img {
         height: 80px;
     }
