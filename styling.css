@@ -28,4 +28,20 @@ main .header-main {
 .second-main a {
   text-decoration: none;
   color: black;
+}
+
+footer h2 {
+  font-family: "Josefin Sans", sans-serif;
+}
+footer label {
+  font-family: "Josefin Sans", sans-serif;
+}
+footer h3 {
+  font-family: "Josefin Sans", sans-serif;
+}
+footer p {
+  font-family: "Josefin Sans", sans-serif;
+}
+footer a {
+  font-family: "Josefin Sans", sans-serif;
 }/*# sourceMappingURL=styling.css.map */
