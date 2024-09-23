@@ -42,14 +42,11 @@ body  {
 
 .headline {
     font-style: italic;
-    font-size: 18px;
     text-align: center;
 
 
     background-color: #b7eba4;
     width: 100%;
-    justify-content: center;
-    align-items: center;
 
     padding: 10px 0px 10px 0px;
 }
